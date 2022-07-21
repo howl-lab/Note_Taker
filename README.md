@@ -42,7 +42,7 @@ The following images show the web application's appearance and functionality:
 
 ![Existing notes are listed in the left-hand column with empty fields on the right-hand side for the new note’s title and text.](./assets/11_note%20taker_sample.png)
 
-Link to app on Heroku
+Link to <a href="https://ivy-notetaker.herokuapp.com/" target="_blank"> app on Heroku</a>
 
 
 ### Credits
